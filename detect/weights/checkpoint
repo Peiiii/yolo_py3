@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolo.ckpt-step-18000"
+all_model_checkpoint_paths: "yolo.ckpt-step-18000"
