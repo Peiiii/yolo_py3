@@ -1,4 +1,0 @@
-data.py 2019-08-19 01:51:21	The number of image for train is:                 199998
-deprecation.py 2019-08-19 01:51:21	From /home/user/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Colocations handled automatically by placer.
