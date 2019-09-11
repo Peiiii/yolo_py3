@@ -2,128 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66d1f861-ff1f-4551-b370-e0bce950975e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ocr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/1000ff5536eca45ccaa359d96ac065b28bd0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/103b03ebdaf009fd2948202d5163a5d1706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/113d07a5abde7bed77ca31a72156fb9d666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/120f433d4738a53c8130190f5704eed2690.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/121f1b4290d04c4c9fbc063f3e3cf9355a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/122e9f893c2406579721dad8e2b741719da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/133bfcc5fb0e492ded9258762258f248cc5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/136cf1a68b949d2f797bd5251d31674f3b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/153a970ae3b70a8828c520c992f83bdef95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/demo/160e40cd58ccb025a56eee90782311190a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568204973.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568205009.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568205040.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568205463.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568206169.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568206278.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568206354.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568207007.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208131.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208172.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208522.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208559.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208718.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208932.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/test/events.out.tfevents.1568208975.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-20-00-59.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-20-00-59/events.out.tfevents.1568203272.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-20-22-12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-20-22-12/events.out.tfevents.1568204545.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-21-24-10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/log/train/2019-09-11-21-24-10/events.out.tfevents.1568208264.ocr-2080Ti" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/1000ff5536eca45ccaa359d96ac065b28bd0/1000ff5536eca45ccaa359d96ac065b28bd0_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/1000ff5536eca45ccaa359d96ac065b28bd0/1000ff5536eca45ccaa359d96ac065b28bd0_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/103b03ebdaf009fd2948202d5163a5d1706/103b03ebdaf009fd2948202d5163a5d1706_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/103b03ebdaf009fd2948202d5163a5d1706/103b03ebdaf009fd2948202d5163a5d1706_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/113d07a5abde7bed77ca31a72156fb9d666/113d07a5abde7bed77ca31a72156fb9d666_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/113d07a5abde7bed77ca31a72156fb9d666/113d07a5abde7bed77ca31a72156fb9d666_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/113d07a5abde7bed77ca31a72156fb9d666/113d07a5abde7bed77ca31a72156fb9d666_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/113d07a5abde7bed77ca31a72156fb9d666/113d07a5abde7bed77ca31a72156fb9d666_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/120f433d4738a53c8130190f5704eed2690/120f433d4738a53c8130190f5704eed2690_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/120f433d4738a53c8130190f5704eed2690/120f433d4738a53c8130190f5704eed2690_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/120f433d4738a53c8130190f5704eed2690/120f433d4738a53c8130190f5704eed2690_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/122e9f893c2406579721dad8e2b741719da/122e9f893c2406579721dad8e2b741719da_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/122e9f893c2406579721dad8e2b741719da/122e9f893c2406579721dad8e2b741719da_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/133bfcc5fb0e492ded9258762258f248cc5/133bfcc5fb0e492ded9258762258f248cc5_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/133bfcc5fb0e492ded9258762258f248cc5/133bfcc5fb0e492ded9258762258f248cc5_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/133bfcc5fb0e492ded9258762258f248cc5/133bfcc5fb0e492ded9258762258f248cc5_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/136cf1a68b949d2f797bd5251d31674f3b2/136cf1a68b949d2f797bd5251d31674f3b2_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/136cf1a68b949d2f797bd5251d31674f3b2/136cf1a68b949d2f797bd5251d31674f3b2_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/153a970ae3b70a8828c520c992f83bdef95/153a970ae3b70a8828c520c992f83bdef95_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/153a970ae3b70a8828c520c992f83bdef95/153a970ae3b70a8828c520c992f83bdef95_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/160e40cd58ccb025a56eee90782311190a6/160e40cd58ccb025a56eee90782311190a6_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/160e40cd58ccb025a56eee90782311190a6/160e40cd58ccb025a56eee90782311190a6_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/160e40cd58ccb025a56eee90782311190a6/160e40cd58ccb025a56eee90782311190a6_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yolo_py3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yolo_py3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-13-12-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-13-12-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-13-15-34.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-13-15-34.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-04-11.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-04-11.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-37.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-50.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-12.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-31-12.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-31-12.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/eval/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/eval/evaluator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/model/head/yolov3.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/head/yolov3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/model/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/demo/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/demo/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/detect/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/detect/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/utils/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/utils/dataAug.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/dataAug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/utils/tmp_tools/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/tmp_tools/tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/detect/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/weights/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-17-58-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-17-58-50.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-00-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-00-10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-35.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-35.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-54.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-54.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-21-53.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-21-53.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-30-47.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-30-47.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-32-14.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-32-14.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-34-38.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-34-38.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-35-39.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-35-39.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-49-49.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-49-49.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-55-34.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-55-34.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-59-48.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-59-48.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-11-15.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-11-15.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-28-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-28-37.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-29-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-29-18.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-13.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-13.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-23.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-33-24.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-33-24.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-31.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-31.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-42.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-42.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-40-44.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-40-44.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-23.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-30.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-50-51.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-50-51.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-08.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-56.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-56.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-57-36.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-57-36.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-05-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-05-52.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-09-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-09-52.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-11-28.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-11-28.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-12-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-12-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-15-31.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-15-31.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-20.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-20.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-44.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-44.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-52-46.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-52-46.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-53-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-53-50.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-55-06.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-55-06.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-29.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-29.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-36.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-36.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-01-47.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-01-47.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-22.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-22.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-49.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-49.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-30-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-30-16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-32-53.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-32-53.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-34-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-34-33.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-45-55.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-45-55.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-56-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-56-09.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-04-58.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-04-58.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-05-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-05-37.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-26-39.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-26-39.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-27-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-27-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-29-00.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-29-00.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-54-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-54-02.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-56-01.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-56-01.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-59-32.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-59-32.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-08-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-08-10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-45-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-45-33.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-46-59.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-46-59.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-47-55.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-47-55.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-16-47-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-16-47-08.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-19-56-41.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-19-56-41.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-20-21-30-24.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-20-21-30-24.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-20-22-18-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-20-22-18-17.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-54-46.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-54-46.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-58-14.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-58-14.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-03-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-03-21.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-04-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-04-02.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-05-25.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-05-25.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-06-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-06-52.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-09-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-09-50.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-12-43.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-12-43.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-14-06.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-14-06.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-16-01.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-16-01.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-21-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-21-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-27-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-27-30.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-44-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-44-16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-46-20.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-46-20.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-58-58.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-58-58.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-59-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-59-23.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-01-35.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-01-35.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-02-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-02-02.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-03-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-03-33.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-05-03.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-05-03.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-06-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-06-18.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-09-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-09-16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-13-03.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-13-03.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-15-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-15-07.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-28-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-28-21.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-35-48.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-35-48.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trash/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/predict.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.test">
     <configuration name="load_voc_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yolo_py3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yolo_py3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.load_voc_data" />
         <item itemvalue="Python.workbench" />
         <item itemvalue="Python.predict" />
-        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>

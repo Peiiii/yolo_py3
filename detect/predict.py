@@ -8,6 +8,7 @@ import glob
 import tensorflow as tf
 from .model.head.yolov3 import YOLOV3
 import shutil
+from PIL import Image
 try:
     import xml.etree.cElementTree as ET
 except ImportError:
@@ -42,12 +43,16 @@ class Yolo_test(Evaluator):
     def detect_image(self, image):
         original_image = np.copy(image)
         bboxes = self.get_bbox(image)
-        image = tools.draw_bbox(original_image, bboxes, self._classes)
-        return image
+        image,coors = tools.draw_bbox(original_image, bboxes, self._classes)
+        return image,coors
     def predict_from_file(self,fp):
         img=cv2.imread(fp)
         return self.detect_image(img)
-
+    def save_img(self,img,fp):
+        cv2.imencode('.jpg', img)[1].tofile(fp)
+    def show_img(self,img):
+        img=Image.fromarray(np.uint8(img))
+        img.show()
     def parse_plate_str(self,fn):
         provinces = ["皖", "沪", "津", "渝", "冀", "晋", "蒙", "辽", "吉", "黑", "苏", "浙", "京", "闽", "赣", "鲁", "豫", "鄂", "湘", "粤",
                      "桂", "琼", "川", "贵", "云", "藏", "陕", "甘", "青", "宁", "新", "警", "学", "O"]
@@ -66,7 +71,7 @@ class Yolo_test(Evaluator):
         plateStr=province+alpha+''.join(ad)
         return plateStr
 
-
+Detector=Yolo_test
 
 
 

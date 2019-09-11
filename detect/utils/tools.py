@@ -253,7 +253,7 @@ def img_preprocess2(image, bboxes, target_shape, correct_box=True):
     return image
 
 
-def draw_bbox(original_image, bboxes, classes):
+def draw_bbox(original_image, bboxes, classes,pad_size=10):
     """
     :param original_image: 检测的原始图片，shape为(org_h, org_w, 3)
     :param bboxes: shape为(N, 6)，存储格式为(xmin, ymin, xmax, ymax, score, class)
@@ -271,7 +271,8 @@ def draw_bbox(original_image, bboxes, classes):
     image_h, image_w, _ = original_image.shape
 
     center_coors=[]
-    cropped_image=None
+    # cropped_image=None
+    results=[]
     for i, bbox in enumerate(bboxes):
         coor = np.array(bbox[:4], dtype=np.int32)
         score = bbox[4]
@@ -279,13 +280,19 @@ def draw_bbox(original_image, bboxes, classes):
         bbox_color = colors[class_ind]
         bbox_thick = int(1.0 * (image_h + image_w) / 600)
 
-        pad_size = 10
         left=max(0,coor[0]-pad_size)
         right=min(image_w,coor[2]+pad_size)
         top=max(0,coor[1]-pad_size)
         bottom=min(image_h,coor[3]+pad_size)
 
         cropped_image = original_image[top:bottom,left:right]
+        results.append(cropped_image)
+        center_row = int((coor[1] + coor[3]) / 2)
+        center_col = int((coor[0] + coor[2]) / 2)
+
+        center_coors.append([center_row, center_col])
+
+
         # demo or result
         # cropped_name = new_dir + '/' + str(i) + '.jpg'
         # cv2.imwrite(cropped_name, cropped_image)
@@ -296,6 +303,7 @@ def draw_bbox(original_image, bboxes, classes):
         # cv2.putText(original_image, bbox_mess, text_loc, cv2.FONT_HERSHEY_SIMPLEX,
         #             1e-3 * image_h, (255, 255, 255), bbox_thick // 3)
         #
+
         # center_row=int((coor[1]+coor[3])/2)
         # center_col=int((coor[0]+coor[2])/2)
         #
@@ -303,4 +311,5 @@ def draw_bbox(original_image, bboxes, classes):
     #
     # with open(output_file,'a') as f:
     #     f.write(new_dir+'.jpg;'+str(center_coors)+'\n')
-    return cropped_image
+    # return cropped_image
+    return results,center_coors

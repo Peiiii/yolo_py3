@@ -161,7 +161,10 @@ class Yolo_train(Evaluator):
                 # self.__saver.save(self.__sess, saved_model_name)
                 # logging.info('Saved model:\t%s' % saved_model_name)
             else:
-                self.__saver.save(self.__sess, os.path.join(self.__weights_dir, 'yolo.ckpt-%d' % period))
+                save_path=os.path.join(self.__weights_dir, 'yolo.ckpt-%d' % period)
+                self.__saver.save(self.__sess, save_path)
+                print('save model to %s' % (save_path))
+
         self.__summary_writer.close()
         self.__sess.close()
 
