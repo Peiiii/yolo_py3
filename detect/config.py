@@ -14,12 +14,12 @@ WARMUP_PERIODS = 2
 MAX_PERIODS = 80
 SAVE_STEPS = 3000
 
-DATA_DIR='/home/user/datasets/dataset/CCPD/home/booy/booy/ccpd_dataset/ccpd_base'
+DATA_DIR='/home/ocr/wp/datasets/aihero/AI+Hero_数据集3/文字验证码框选标注数据集/tag_pic'
 
 GT_PER_GRID = 3
 ROOT='detect'
 
-
+RESTORE=True
 
 # test
 SCORE_THRESHOLD = 0.50    # The threshold of the probability of the classes

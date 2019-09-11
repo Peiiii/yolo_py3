@@ -1,82 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66d1f861-ff1f-4551-b370-e0bce950975e" name="Default Changelist" comment="" />
+    <list default="true" id="66d1f861-ff1f-4551-b370-e0bce950975e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ocr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yolo_py3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yolo_py3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-13-12-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-13-12-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-13-15-34.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-13-15-34.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-04-11.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-04-11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-37.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-28-50.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-12.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-30-12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/log/train/2019-08-25-14-31-12.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/log/train/2019-08-25-14-31-12.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/eval/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/eval/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/model/head/yolov3.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/head/yolov3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/model/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/model/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/utils/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/utils/dataAug.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/dataAug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/utils/tmp_tools/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/tmp_tools/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect/utils/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/weights/checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.data-00000-of-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/detect/weights/yolo.ckpt-step-18000.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-17-58-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-17-58-50.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-00-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-00-10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-35.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-35.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-54.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-20-54.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-21-53.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-21-53.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-30-47.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-30-47.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-32-14.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-32-14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-34-38.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-34-38.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-35-39.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-35-39.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-49-49.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-49-49.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-55-34.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-55-34.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-59-48.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-18-59-48.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-11-15.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-11-15.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-28-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-28-37.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-29-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-29-18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-13.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-31-23.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-33-24.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-33-24.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-31.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-31.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-42.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-34-42.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-40-44.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-40-44.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-23.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-45-30.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-50-51.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-50-51.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-08.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-56.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-55-56.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-57-36.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-20-57-36.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-05-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-05-52.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-09-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-09-52.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-11-28.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-11-28.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-12-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-12-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-15-31.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-18-21-15-31.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-20.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-20.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-44.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-51-44.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-52-46.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-52-46.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-53-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-53-50.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-55-06.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-55-06.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-29.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-29.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-36.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-01-59-36.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-01-47.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-01-47.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-22.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-22.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-49.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-02-02-49.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-30-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-30-16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-32-53.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-32-53.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-34-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-34-33.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-45-55.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-45-55.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-56-09.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-12-56-09.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-04-58.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-04-58.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-05-37.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-05-37.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-26-39.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-26-39.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-27-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-27-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-29-00.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-29-00.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-54-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-54-02.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-56-01.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-56-01.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-59-32.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-13-59-32.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-08-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-08-10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-45-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-45-33.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-46-59.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-46-59.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-47-55.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-14-47-55.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-16-47-08.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-16-47-08.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-19-19-56-41.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-19-19-56-41.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-20-21-30-24.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-20-21-30-24.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-20-22-18-17.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-20-22-18-17.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-54-46.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-54-46.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-58-14.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-22-58-14.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-03-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-03-21.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-04-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-04-02.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-05-25.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-05-25.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-06-52.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-06-52.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-09-50.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-09-50.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-12-43.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-12-43.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-14-06.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-14-06.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-16-01.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-16-01.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-21-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-21-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-27-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-27-30.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-44-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-44-16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-46-20.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-46-20.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-58-58.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-58-58.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-59-23.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-24-23-59-23.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-01-35.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-01-35.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-02-02.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-02-02.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-03-33.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-03-33.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-05-03.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-05-03.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-06-18.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-06-18.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-09-16.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-09-16.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-13-03.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-13-03.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-15-07.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-15-07.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-28-21.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-28-21.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-35-48.log" beforeDir="false" afterPath="$PROJECT_DIR$/trash/log/train/2019-08-25-00-35-48.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trash/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/trash/predict.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detect/predict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detect/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
-              <folding>
-                <element signature="e#17#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detect/eval/evaluator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              <folding>
-                <element signature="e#17#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/detect/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,31 +143,8 @@
       <find>print</find>
     </findStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/config.py" />
-        <option value="$PROJECT_DIR$/utils/data.py" />
-        <option value="$PROJECT_DIR$/utils/tmp_tools/__init__.py" />
-        <option value="$PROJECT_DIR$/eval/evaluator.py" />
-        <option value="$PROJECT_DIR$/train.py" />
-        <option value="$PROJECT_DIR$/utils/tools.py" />
-        <option value="$PROJECT_DIR$/predict.py" />
-        <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/workbench.py" />
-        <option value="$PROJECT_DIR$/detect/model/head/yolov3.py" />
-        <option value="$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py" />
-        <option value="$PROJECT_DIR$/detect/eval/evaluator.py" />
-        <option value="$PROJECT_DIR$/detect/workbench.py" />
-        <option value="$PROJECT_DIR$/detect/model/layers.py" />
-        <option value="$PROJECT_DIR$/detect/utils/data.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/detect/train.py" />
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/detect/predict.py" />
-        <option value="$PROJECT_DIR$/detect/config.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="582" />
@@ -122,38 +152,14 @@
     <option name="width" value="981" />
     <option name="height" value="522" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="yolo_py3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yolo_py3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yolo_py3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yolo_py3" type="462c0819:PsiDirectoryNode" />
-              <item name="detect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yolo_py3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yolo_py3" type="462c0819:PsiDirectoryNode" />
-              <item name="detect" type="462c0819:PsiDirectoryNode" />
-              <item name="eval" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1Qe5A1IgMb56EecfV9okGdd6XsO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cnn_lstm_ctc_tf" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -181,6 +187,27 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.main">
+    <configuration name="load_voc_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yolo_py3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detect/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect/utils/load_voc_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="yolo_py3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,6 +295,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.load_voc_data" />
         <item itemvalue="Python.workbench" />
         <item itemvalue="Python.predict" />
         <item itemvalue="Python.train" />
@@ -287,143 +315,17 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="29" width="1920" height="1024" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42697883" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.py" />
-    <entry file="file://$PROJECT_DIR$/model/head/yolov3.py" />
-    <entry file="file://$PROJECT_DIR$/utils/tmp_tools/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/utils/data.py" />
-    <entry file="file://$PROJECT_DIR$/eval/evaluator.py" />
-    <entry file="file://$PROJECT_DIR$/utils/tmp_tools/tools.py" />
-    <entry file="file://$PROJECT_DIR$/utils/tools.py" />
-    <entry file="file://$PROJECT_DIR$/detect/data/demo/5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train.py" />
-    <entry file="file://$PROJECT_DIR$/detect/data/demo/6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/output/6.jpg" />
-    <entry file="file://$PROJECT_DIR$/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/predict.py" />
-    <entry file="file://$PROJECT_DIR$/detect/model/backbone/MobilenetV2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trash/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="e#17#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/model/head/yolov3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/model/layers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="267" column="40" selection-start-line="267" selection-start-column="40" selection-end-line="267" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/utils/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2222">
-          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/utils/tools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4157" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/eval/evaluator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#17#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-          <folding>
-            <element signature="e#17#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

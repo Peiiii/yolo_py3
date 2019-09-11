@@ -1,0 +1,18 @@
+data.py 2019-09-11 07:46:47	The number of image for train is:                 499
+deprecation_wrapper.py 2019-09-11 07:46:47	From /home/ocr/wp/projects/yolo_py3/detect/train.py:34: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+deprecation_wrapper.py 2019-09-11 07:46:47	From /home/ocr/wp/projects/yolo_py3/detect/train.py:56: The name tf.assign_add is deprecated. Please use tf.compat.v1.assign_add instead.
+
+deprecation_wrapper.py 2019-09-11 07:46:47	From /home/ocr/wp/projects/yolo_py3/detect/model/head/yolov3.py:34: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+deprecation_wrapper.py 2019-09-11 07:46:47	From /home/ocr/wp/projects/yolo_py3/detect/model/layers.py:84: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+deprecation_wrapper.py 2019-09-11 07:46:47	From /home/ocr/wp/projects/yolo_py3/detect/model/layers.py:28: The name tf.assign is deprecated. Please use tf.compat.v1.assign instead.
+
+deprecation_wrapper.py 2019-09-11 07:46:49	From /home/ocr/wp/projects/yolo_py3/detect/model/layers.py:242: The name tf.image.resize_nearest_neighbor is deprecated. Please use tf.compat.v1.image.resize_nearest_neighbor instead.
+
+deprecation.py 2019-09-11 07:46:50	From /home/ocr/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+deprecation_wrapper.py 2019-09-11 07:46:51	From /home/ocr/wp/projects/yolo_py3/detect/train.py:68: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+

@@ -3,7 +3,7 @@
 import sys
 import os
 sys.path.append(os.path.abspath('..'))
-import cv2
+import cv2,glob
 import random
 import tensorflow as tf
 import logging
@@ -34,7 +34,8 @@ class Data(object):
         self.__gt_per_grid = cfg.GT_PER_GRID
         self.__class_to_ind = dict(zip(self.__classes, range(self.__num_classes)))
         self.__data_dir=cfg.DATA_DIR
-        self.__annotations = self.__load_annotations(self.__data_dir)
+        # self.__annotations = self.__load_annotations(self.__data_dir)
+        self.__annotations = self.__load_annotations_coco(self.__data_dir)
 
         self.__num_samples = len(self.__annotations)
         logging.info(('The number of image for train is:').ljust(50) + str(self.__num_samples))
@@ -63,6 +64,25 @@ class Data(object):
             annotation=fp+' '+','.join([xmin, ymin, xmax, ymax, str(class_ind)])
             annotations.append(annotation)
         return annotations
+    def __load_annotations_coco(self, data_path, use_difficult_bbox=False):
+        """
+        :param data_path: 数据集的路径，如'/home/xzh/doc/code/python_code/data/VOC/2012_trainval'
+        :return: 一个标注列表，元素为：'image_path xmin,ymin,xmax,ymax,class_ind xmin,ymin,xmax,ymax,class_ind ...'
+        """
+        from .load_voc_data import loadxml
+        file_pathes=glob.glob(data_path+'/*.jpg')
+        file_names = [os.path.basename(f) for f in file_pathes]
+        annotations = []
+        for fn,fp in zip(file_names,file_pathes):
+            xml=fn.split('.')[0]+'.xml'
+            xml=os.path.dirname(fp)+'/'+xml
+            objects=loadxml(xml)
+            class_ind = 0
+            objects=[','.join(o)+','+str(class_ind) for o in objects]
+            annotation=fp+' '+' '.join(objects)
+            annotations.append(annotation)
+        return annotations
+
 
     def __iter__(self):
         return self

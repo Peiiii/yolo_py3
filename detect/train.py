@@ -85,9 +85,13 @@ class Yolo_train(Evaluator):
 
         self.__sess = tf.Session(config=config)
         self.__sess.run(tf.global_variables_initializer())
-        # logging.info('Restoring weights from:\t %s' % self.__weights_init)
-        ckpt = tf.train.latest_checkpoint(cfg.WEIGHTS_DIR)
-        self.__saver.restore(self.__sess, ckpt)
+        if cfg.RESTORE:
+            # logging.info('Restoring weights from:\t %s' % self.__weights_init)
+            try:
+                ckpt = tf.train.latest_checkpoint(cfg.WEIGHTS_DIR)
+                self.__saver.restore(self.__sess, ckpt)
+            except:
+                print('warning***:  initial weights not found in %s, model will be randomly initialized.'%(cfg.WEIGHTS_INIT))
 
         super(Yolo_train, self).__init__(self.__sess, self.__input_data, self.__training,
                                          pred_sbbox, pred_mbbox, pred_lbbox)
